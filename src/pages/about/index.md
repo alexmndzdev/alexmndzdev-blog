@@ -1,19 +1,21 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Misión, Visión y Valores
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+# Misión
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Apoyar en el proceso de sanación de las personas, ofreciendo las herramientas y cambios necesarios para hacerlo, desde una perspectiva diferente a la medicina que estamos acostumbrados, ya que para una verdadera sanación (y no *solamente* el alivio de los sintomas ) muchas veces se requiere de un poco más que tomar una pastilla, tal vez un cambio en la dieta, un cambio de hábitos, alguna práctica en especifico, correcciones posturales, etc. Claro,  todo esto apoyado por las \[[herramientas de mtch]]  que se ofrecen en consulta pueden ayudar a acelerar mucho más el proceso.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+# Visión
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Educar y brindar las herramientas necesarias a todas las personas posibles sobre su propio cuerpo y sobre como recuperar su salud, creando así una sociedad menos enferma, más feliz, más educada y más consciente.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+# Valores
+
+* Honestidad: Es la base para construir la confianza con su terapeuta y que a su vez es indispensable para que haya una verdadera sanación.
+* Compromiso: Siempre se buscará el mayor nivel de involucramiento con el paciente, si este lo permite, para ello se propondrán planes de trabajo que permitan llevar un seguimiento.
+* Eficiencia: Lograr la sanación utilizando procesos, metodologías y sobre todo herramientas super efectivas que nos permitan cuantificar resultados/mejoría *rápidamente* (relativo a su condición). 
+* Trabajo en equipo: El trabajo en equipo con otros terapeutas es importante pero lo más importante es el trabajo en equipo entre el terapeuta y el paciente, ya que la sanación del paciente evolucionara en gran medida proporcionalmente al esfuerzo que este ponga por realizar las tareas preescritas por el terapeuta.
+  Un dolor de cabeza se le puede quitar fácilmente en una sesión, pero si sigue teniendo los mismos hábitos entonces ese dolor de cabeza puede volver en un mes. 
+  Usted que prefiere? un dolor de cabeza al mes o ninguno?
