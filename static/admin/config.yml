@@ -250,5 +250,11 @@ collections:
     folder: "src/pages/faq"
     create: true
     fields: # The fields each document in this collection have
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "Question",
+        }
       - { label: 'Question', name: 'title', widget: 'string', tagname: 'h1' }
       - { label: 'Answer', name: 'body', widget: 'markdown' }

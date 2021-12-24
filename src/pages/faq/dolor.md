@@ -1,4 +1,3 @@
-
 ---
 title: Es doloroso?
 key: 'Question'
