@@ -244,3 +244,11 @@ collections:
                   },
                 ],
             }
+
+  - name: "faq"
+    label: "Faq"
+    folder: "src/pages/faq"
+    create: true
+    fields: # The fields each document in this collection have
+      - { label: 'Question', name: 'title', widget: 'string', tagname: 'h1' }
+      - { label: 'Answer', name: 'body', widget: 'markdown' }
