@@ -18,13 +18,31 @@ description: La medicina tradicional china que consta de más de 2 mil años de
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: Acupuntura y Moxibustión
+      text: Técnicas milenarias que han perdurado en el tiempo por sus múltiples
+        beneficios y efectividad en el tratamiento de enfermedades, consisten en
+        la estimulación de puntos específicos que cumplen funciones especificas
+        en el cuerpo, la *acupuntura y moxibustión*
     - image: /img/coffee-gear.png
-      text: Herbolaria
+      text: La *fitoterapia* es el uso de plantas medicinales en distintas
+        presentaciones para diferentes usos que van desde cataplasmas para usos
+        tópicos en enfermedades como dermatitis hasta como infusión o cocción o
+        incluso licuados de una o varias plantas para medicina interna en
+        tratamiento como desintoxicación de hígado, hígado graso, cálculos
+        renales, etc.
     - image: /img/tutorials.png
-      text: Masaje y uso de Ventosas
+      text: "En cuanto a las *ventosas* sus efectos fisiológicos van desde:
+        Analgésico, Hiperemia local , Relajante, hasta Depurativo, estimulante
+        del Metabolismo y del Sistema inmune . Para ello se hace uso de la
+        succión generada dependiendo el método que utilice la ventosa por vacío
+        a través de fuego o por succión como en una ventosa mecánica. Y del
+        *masaje* se hace uso del Tui Na, Relajante y Descontracturante."
     - image: /img/meeting-space.png
-      text: Qigong
+      text: "Técnicas de trabajo físico suave, que hace especial énfasis en la
+        coordinación de respiración, movimiento e intención, esto es el
+        *Qigong*, cuyo principal objetivo es promover la salud y mejorar la
+        calidad de vida. En diversos estudios los diferentes ejercicios internos
+        desarrollados por esta disciplina han demostrado su eficacia en
+        enfermedades como: Fibromialgia, Artritis, Depresión, etc."
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
