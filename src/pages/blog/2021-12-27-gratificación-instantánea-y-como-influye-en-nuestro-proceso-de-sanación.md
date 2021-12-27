@@ -26,7 +26,7 @@ El problema es que a largo plazo puede causar:
 
 Tomando en cuenta estos efectos y que el proceso de sanación puede ser un proceso lento (obviamente dependiendo la afección) y que requiere esfuerzo entonces sanar se puede ver como un *objetivo a mediano o largo plazo* en el cual necesitaremos *paciencia, compromiso y constancia.*
 
-![Focus](/img/pexels-los-muertos-crew-7260636.jpg "Focus")
+![Focus](/img/pexels-los-muertos-crew-7260636-1-.jpg "Focus")
 
 La salud debe ser una consecuencia de que tanto vamos de acuerdo a nuestra naturaleza pero hacer esto no es ni tan fácil ni tan rápido ya que deberemos deshacernos de ciertas ideas y hábitos emocionales, alimenticios, posturales, entre otros. Algunos de los cuales en realidad probablemente nunca fueron puestos en duda y las hicimos parte de nuestro sistema de creencias de manera automática porque seguramente tuvo una utilidad en algún momento de nuestra vida; así como llevo tiempo para implantarse todo esto en nosotros, también puede llevar tiempo deshacernos de ello.
 
