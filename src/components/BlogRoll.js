@@ -48,14 +48,12 @@ class BlogRollTemplate extends React.Component {
                     </span>
                   </p>
                 </header>
-                <p>
-                  {post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="button" to={post.fields.slug}>
+                <p className="has-text-justified-mobile">{post.excerpt}</p>
+                <div className="box">
+                  <Link className="button is-success is-rounded is-pulled-right" to={post.fields.slug}>
                     Leer más →
                   </Link>
-                </p>
+                </div>
               </article>
             </div>
           ))}
