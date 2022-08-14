@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 path: /about
-title: About our values
+title: Misión, Visión y Valores
 ---
 # Misión
 
