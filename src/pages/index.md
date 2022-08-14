@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Medicina Tradicional China
+title: Tianmen
 image: /img/home-jumbotron.jpg
 heading: Medicina Tradicional China
 subheading: Verdadera sanación desde las raices
