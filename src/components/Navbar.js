@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
-import logo from "../img/logo.svg";
+import logo from "../img/logo_letters_transparent.png";
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -62,23 +62,20 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/about">
-                Acerca
+              <Link className="navbar-item" to="/blog">
+                Blog
               </Link>
               <Link className="navbar-item" to="/products">
                 Productos
               </Link>
-              <Link className="navbar-item" to="/blog">
-                Blog
-              </Link>
-              <Link className="navbar-item" to="/contact">
-                Contacto
-              </Link>
               <Link className="navbar-item" to="/faq">
                 Preguntas frecuentes
               </Link>
-              <Link className="navbar-item" to="/contact/examples">
-                Ejemplos de Formulario
+              <Link className="navbar-item" to="/about">
+                Acerca
+              </Link>
+              <Link className="navbar-item" to="/contact">
+                Contacto
               </Link>
             </div>
           </div>
