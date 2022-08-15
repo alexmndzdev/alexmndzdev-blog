@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: "Tianmen",
-    image: `/logo_blue.png`,
+    image: "./img/logo_blue.png",
     description:
-    "Blog con publicaciones destinadas al desarrollo del individuo, tanto fisica, mental como espiritualmente. Podrás encontrar herramientas que te podrán servir en tu camino, así como información útil para tomar decisiones y muchos más datos interesantes, entre otras cosas.",
+    "Blog con publicaciones destinadas al desarrollo del individuo, tanto fisica, mental como espiritualmente. Podrás encontrar herramientas que te podrán servir en tu camino, así como información útil // para tomar decisiones y muchos más datos interesantes, entre otras cosas.",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
