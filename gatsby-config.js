@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: "Tianmen",
+    image: `/logo_blue.png`,
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+    "Blog con publicaciones destinadas al desarrollo del individuo, tanto fisica, mental como espiritualmente. Podrás encontrar herramientas que te podrán servir en tu camino, así como información útil para tomar decisiones y muchos más datos interesantes, entre otras cosas.",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
