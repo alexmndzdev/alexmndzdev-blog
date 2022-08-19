@@ -14,7 +14,9 @@ tags:
   - cambio
   - compromiso
 ---
-Cualquier recompensa libera dopamina en el cerebro; a mayor dopamina mayor la tendencia a tomar las gratificaciones instantáneas frente a gratificaciones que pueden ser más duraderas o simplemente mejores pero que son aplazadas (tiene que haber pasado un tiempo y por lo general también supone mayor esfuerzo). [[Ver estudio](https://www.jneurosci.org/content/30/26/8888)]\
+Cualquier recompensa libera dopamina en el cerebro. **A mayor dopamina mayor la tendencia a tomar las recompensas instantáneas frente a recompensas demoradas** en su recepción pero que **pueden ser más duraderas o simplemente mejores,** esa fue la conclusión de [este estudio](https://www.jneurosci.org/content/30/26/8888).\
+A este suceso se le conoce como: "Descuento por demora" (en el estudio lo manejan como *temporal discount*) y hace referencia a que en nuestras elecciones descontamos valor a las recompensas más tardías frente a otras más inmediatas. \
+\
 Hábitos que creemos inofensivos como las redes sociales que usan este aspecto de las reacciones y comentarios como disparo de dopamina, el tener disponibilidad para que te respondan inmediatamente, comida rápida, etc. nos han conducido a estar en una sociedad donde gran parte de la gente se maneja en este modo.
 
 ### ¿Cuál es el problema con esto?
