@@ -5,8 +5,8 @@ import logo from "../img/logo.svg";
 import facebook from "../img/social/facebook.svg";
 import instagram from "../img/social/instagram.svg";
 
-const Footer = class extends React.Component {
-  render() {
+const Footer = () => {
+  
     return (
       <footer className="footer has-background-black has-text-white-ter">
         { /*<div className="content has-text-centered">
@@ -72,7 +72,6 @@ const Footer = class extends React.Component {
         </div>
       </footer>
     );
-  }
 };
 
 export default Footer;
