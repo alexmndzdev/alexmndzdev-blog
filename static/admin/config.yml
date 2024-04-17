@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: github
+  repo: alexmndzdev/alexmndzdev-blog
   commit_messages:
     create: "Create {{collection}} “{{slug}}”"
     update: "Update {{collection}} “{{slug}}”"
@@ -11,6 +11,8 @@ backend:
 local_backend: true
 media_folder: static/img
 public_folder: /img
+site_url: https://tianmen.netlify.app
+display_url: https://tianmen.netlify.app
 
 collections:
   - name: "blog"
