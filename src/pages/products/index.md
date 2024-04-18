@@ -1,13 +1,17 @@
 ---
-heading: Medicina holista
+heading: Servicios y Productos
 path: /products
 templateKey: product-page
 title: Servicios
 image: /img/productos.png
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: ¡Descubre cómo alcanzar tu máximo potencial humano con nuestros
+  productos y servicios especializados en salud y bienestar! En nuestra sección
+  de productos y servicios, te ofrecemos una variedad de opciones diseñadas para
+  promover tu salud física, mental y emocional. Desde terapias naturales como
+  masajes, acupuntura y aromaterapia hasta técnicas avanzadas para liberar
+  emociones reprimidas y superar creencias limitantes, estamos aquí para guiarte
+  en tu viaje hacia una vida más plena y satisfactoria. ¡Experimenta el poder de
+  la sanación y transformación personal con nosotros!
 intro:
   blurbs:
     - image: /img/acupunturabanner.png
@@ -61,17 +65,26 @@ main:
     image: /img/products-grid1.jpg
 testimonials:
   - author: Roberto Avalos
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+    quote: ¡Experiencia maravillosa! Visité este lugar para un masaje y quedé
+      impresionado. El ambiente era relajante y el terapeuta fue profesional y
+      atento. Después del tratamiento, me sentí renovado y relajado.
+      Definitivamente regresaré pronto.
   - author: Yasser Batas
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+    quote: '"¡Excelente servicio y resultados! Recientemente probé la acupuntura en
+      este lugar y quedé impresionado. El terapeuta fue muy profesional y me
+      hizo sentir cómodo durante todo el proceso. Después de unas pocas
+      sesiones, noté una mejora significativa en mi salud y bienestar.
+      ¡Altamente recomendado para aquellos que buscan soluciones naturales para
+      mejorar su calidad de vida!"'
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Paquetes
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  description: ¡Maximiza tu bienestar con nuestros paquetes exclusivos diseñados
+    para potenciar tu salud y vitalidad!. Cada paquete está diseñado para
+    ofrecerte una experiencia holística que aborda tus necesidades individuales
+    y te ayuda a alcanzar un estado óptimo de bienestar físico, mental y
+    emocional. ¡Déjanos ser tu guía en el viaje hacia una vida más saludable y
+    plena!
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
