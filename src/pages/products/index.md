@@ -11,29 +11,32 @@ description: Kaldi is the ultimate spot for coffee lovers who want to learn
 intro:
   blurbs:
     - image: /img/acupunturabanner.png
-      text: Acupuntura, para todo tipo de problemas, desde un dolor muscular,
-        insomnio, ansiedad hasta depresión y medicina interna como
-        endometriosis, hipertensión o diabetes
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: Descubre los beneficios de la acupuntura con nosotros. Nuestros
+        especialistas en acupuntura utilizan técnicas milenarias para aliviar el
+        dolor, reducir el estrés y restaurar el equilibrio energético del
+        cuerpo. Para todo tipo de problemas, desde un dolor muscular, insomnio,
+        ansiedad hasta depresión y medicina interna como endometriosis,
+        hipertensión o diabetes
+    - image: /img/masaje.jpg
+      text: Descubre los beneficios del masaje con nosotros. Nuestros terapeutas
+        expertos utilizan técnicas de masaje para aliviar el estrés, reducir la
+        tensión muscular y mejorar la circulación sanguínea. Experimenta una
+        sensación de relajación profunda y renueva tu vitalidad física y mental
+        con nuestros tratamientos de masaje.
+    - image: /img/christin-hume-0mof-fe0w0a-unsplash.jpg
+      text: Descubre los beneficios de la aromaterapia con nosotros. Utilizamos
+        aceites esenciales naturales en aplicaciones tópicas y difusores
+        especializados para aliviar el estrés, mejorar el sueño y promover la
+        salud física y mental. Experimenta el poder curativo de la naturaleza y
+        mejora tu bienestar con la aromaterapia.
+    - image: /img/howareu.jpg
+      text: Descubre el poder de las liberaciones emocionales y el trabajo con
+        creencias limitantes. Nuestros terapeutas especializados utilizan
+        técnicas efectivas para liberar emociones reprimidas, superar traumas
+        pasados y desbloquear creencias limitantes que te impiden alcanzar tu
+        máximo potencial. Experimenta una sensación de liberación emocional y
+        transformación personal, y libérate del peso del pasado para crear una
+        vida más plena y satisfactoria.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
