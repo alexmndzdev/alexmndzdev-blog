@@ -1,22 +1,19 @@
 ---
-heading: Great coffee with a conscience
+heading: Medicina holista
 path: /products
 templateKey: product-page
-title: Productos
-image: /img/jumbotron.jpg
+title: Servicios
+image: /img/productos.png
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
   knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+    - image: /img/acupunturabanner.png
+      text: Acupuntura, para todo tipo de problemas, desde un dolor muscular,
+        insomnio, ansiedad hasta depresión y medicina interna como
+        endometriosis, hipertensión o diabetes
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
