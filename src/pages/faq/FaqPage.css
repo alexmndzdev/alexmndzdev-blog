@@ -1,0 +1,35 @@
+.faq-container {
+  margin-top: 20px;
+}
+
+.faq-item {
+  margin-bottom: 20px;
+}
+
+.faq-card {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s;
+}
+
+.faq-card:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.faq-title {
+  cursor: pointer;
+  background-color: #f5f5f5;
+  border-radius: 10px 10px 0 0;
+  padding: 20px;
+}
+
+.faq-content {
+  display: none;
+  padding: 20px;
+  border-radius: 0 0 10px 10px;
+}
+
+.faq-content.open {
+  display: block;
+}
+
