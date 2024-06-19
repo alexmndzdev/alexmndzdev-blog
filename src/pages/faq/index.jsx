@@ -1,11 +1,25 @@
+import React, { useState } from "react";
 import Layout from "../../components/Layout";
 import Content, { HTMLContent } from "../../components/Content";
-import React from "react"
-import { graphql } from "gatsby"
+import { graphql } from "gatsby";
+import "./FaqPage.css";
 
-const FanPage = ({ data }) => {
+const FaqPage = ({ data }) => {
   const { allMarkdownRemark: { edges } } = data;
   const PageContent = HTMLContent || Content;
+
+  // Estado para controlar qué tarjeta está abierta
+  const [openCards, setOpenCards] = useState({});
+
+  // Función para cambiar el estado de la tarjeta abierta
+  const toggleCard = (index) => {
+    console.log(index, 'index');
+    setOpenCards((prevState) => ({
+      ...prevState,
+      [index]: !prevState[index]
+    }));
+  };
+
   return (
     <Layout>
       <section className="section section--gradient">
@@ -16,19 +30,24 @@ const FanPage = ({ data }) => {
                 <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
                   Preguntas Frecuentes
                 </h2>
-                <div class="content">
-                {
-                  edges.map(({ node }, i) => {
-                    return (
-                      <>
-                        <h3> 
-                          { node.frontmatter.title }
-                        </h3>
-                        <p>{ node.excerpt }</p>
-                      </>
-                    )
-                  })
-                }
+                <div className="faq-container">
+                  {edges.map(({ node }, index) => (
+                    <div key={index} className="faq-item">
+                      <div
+                        className={`faq-card ${openCards[index] ? "open" : ""}`}
+                        onClick={() => toggleCard(index)}
+                      >
+                        <div className="faq-title">
+                          <p className="is-size-5">{node.frontmatter.title}</p>
+                        </div>
+                        {openCards[index] && (
+                          <div className="faq-content open">
+                            <p className="is-size-6">{node.excerpt}</p>
+                          </div>
+                        )}
+                      </div>
+                    </div>
+                  ))}
                 </div>
               </div>
             </div>
@@ -36,8 +55,8 @@ const FanPage = ({ data }) => {
         </div>
       </section>
     </Layout>
-  )
-} 
+  );
+};
 
 export const query = graphql`
   {
@@ -56,6 +75,6 @@ export const query = graphql`
       }
     }
   }
-`
+`;
 
-export default FanPage
+export default FaqPage;
