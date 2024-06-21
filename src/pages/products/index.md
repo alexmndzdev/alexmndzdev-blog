@@ -27,13 +27,13 @@ intro:
         tensión muscular y mejorar la circulación sanguínea. Experimenta una
         sensación de relajación profunda y renueva tu vitalidad física y mental
         con nuestros tratamientos de masaje.
-    - image: /img/christin-hume-0mof-fe0w0a-unsplash.jpg
+    - image: /img/oig2-1-.jpg
       text: Descubre los beneficios de la aromaterapia con nosotros. Utilizamos
         aceites esenciales naturales en aplicaciones tópicas y difusores
         especializados para aliviar el estrés, mejorar el sueño y promover la
         salud física y mental. Experimenta el poder curativo de la naturaleza y
         mejora tu bienestar con la aromaterapia.
-    - image: /img/howareu.jpg
+    - image: /img/oig2.wh_hm.jpg
       text: Descubre el poder de las liberaciones emocionales y el trabajo con
         creencias limitantes. Nuestros terapeutas especializados utilizan
         técnicas efectivas para liberar emociones reprimidas, superar traumas
@@ -76,7 +76,7 @@ testimonials:
       sesiones, noté una mejora significativa en mi salud y bienestar.
       ¡Altamente recomendado para aquellos que buscan soluciones naturales para
       mejorar su calidad de vida!"'
-full_image: /img/products-full-width.jpg
+full_image: /img/oig1.jpg
 pricing:
   heading: Paquetes
   description: ¡Maximiza tu bienestar con nuestros paquetes exclusivos diseñados
