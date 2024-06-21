@@ -42,7 +42,7 @@ const FaqPage = ({ data }) => {
                         </div>
                         {openCards[index] && (
                           <div className="faq-content open">
-                            <p className="is-size-6">{node.excerpt}</p>
+                            <HTMLContent content={node.html} />
                           </div>
                         )}
                       </div>
@@ -67,7 +67,7 @@ export const query = graphql`
     ) {
       edges {
         node {
-          excerpt(pruneLength: 1000)
+          html
           frontmatter {
             title
           }

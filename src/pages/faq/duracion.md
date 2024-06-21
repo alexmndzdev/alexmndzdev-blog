@@ -1,5 +1,6 @@
 ---
-title: Cuanto tarda una sesión?
+title: ¿Cuánto tarda una sesión?
 key: Question
 ---
-Sí  se han contestado los formularios previamente a la consulta entonces la primer cita puede durar 1:30hr, si no se contestaron previamente los formularios entonces podríamos extendernos hasta 2hrs (**sólo en primer cita**). Si no es la primer cita entonces las sesiones suelen durar 1 hora o mínimo 45 min.
+**Primer sesión:** Sí se contestó el [formulario de antecedentes](https://docs.google.com/forms/d/1kwOHYrtpsmC4BTWgOuM_t7DaUyPC3RZ9q6D6VXYEkys/viewform?edit_requested=true#question=798762819&field=1209231948) previamente a la consulta entonces puede durar 1.5hrs, si no se contestó podríamos extendernos hasta 2hrs.
+**Sesión de seguimiento:** Entre 45 y 60 min.
