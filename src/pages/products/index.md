@@ -1,42 +1,46 @@
 ---
-heading: Great coffee with a conscience
+heading: Servicios y Productos
 path: /products
 templateKey: product-page
-title: Productos
-image: /img/jumbotron.jpg
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+title: Servicios
+image: /img/productos.png
+description: ¡Descubre cómo alcanzar tu máximo potencial humano con nuestros
+  productos y servicios especializados en salud y bienestar! En nuestra sección
+  de productos y servicios, te ofrecemos una variedad de opciones diseñadas para
+  promover tu salud física, mental y emocional. Desde terapias naturales como
+  masajes, acupuntura y aromaterapia hasta técnicas avanzadas para liberar
+  emociones reprimidas y superar creencias limitantes, estamos aquí para guiarte
+  en tu viaje hacia una vida más plena y satisfactoria. ¡Experimenta el poder de
+  la sanación y transformación personal con nosotros!
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/acupunturabanner.png
+      text: Descubre los beneficios de la acupuntura con nosotros. Nuestros
+        especialistas en acupuntura utilizan técnicas milenarias para aliviar el
+        dolor, reducir el estrés y restaurar el equilibrio energético del
+        cuerpo. Para todo tipo de problemas, desde un dolor muscular, insomnio,
+        ansiedad hasta depresión y medicina interna como endometriosis,
+        hipertensión o diabetes
+    - image: /img/masaje.jpg
+      text: Descubre los beneficios del masaje con nosotros. Nuestros terapeutas
+        expertos utilizan técnicas de masaje para aliviar el estrés, reducir la
+        tensión muscular y mejorar la circulación sanguínea. Experimenta una
+        sensación de relajación profunda y renueva tu vitalidad física y mental
+        con nuestros tratamientos de masaje.
+    - image: /img/christin-hume-0mof-fe0w0a-unsplash.jpg
+      text: Descubre los beneficios de la aromaterapia con nosotros. Utilizamos
+        aceites esenciales naturales en aplicaciones tópicas y difusores
+        especializados para aliviar el estrés, mejorar el sueño y promover la
+        salud física y mental. Experimenta el poder curativo de la naturaleza y
+        mejora tu bienestar con la aromaterapia.
+    - image: /img/howareu.jpg
+      text: Descubre el poder de las liberaciones emocionales y el trabajo con
+        creencias limitantes. Nuestros terapeutas especializados utilizan
+        técnicas efectivas para liberar emociones reprimidas, superar traumas
+        pasados y desbloquear creencias limitantes que te impiden alcanzar tu
+        máximo potencial. Experimenta una sensación de liberación emocional y
+        transformación personal, y libérate del peso del pasado para crear una
+        vida más plena y satisfactoria.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -61,17 +65,26 @@ main:
     image: /img/products-grid1.jpg
 testimonials:
   - author: Roberto Avalos
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+    quote: ¡Experiencia maravillosa! Visité este lugar para un masaje y quedé
+      impresionado. El ambiente era relajante y el terapeuta fue profesional y
+      atento. Después del tratamiento, me sentí renovado y relajado.
+      Definitivamente regresaré pronto.
   - author: Yasser Batas
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+    quote: '"¡Excelente servicio y resultados! Recientemente probé la acupuntura en
+      este lugar y quedé impresionado. El terapeuta fue muy profesional y me
+      hizo sentir cómodo durante todo el proceso. Después de unas pocas
+      sesiones, noté una mejora significativa en mi salud y bienestar.
+      ¡Altamente recomendado para aquellos que buscan soluciones naturales para
+      mejorar su calidad de vida!"'
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Paquetes
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  description: ¡Maximiza tu bienestar con nuestros paquetes exclusivos diseñados
+    para potenciar tu salud y vitalidad!. Cada paquete está diseñado para
+    ofrecerte una experiencia holística que aborda tus necesidades individuales
+    y te ayuda a alcanzar un estado óptimo de bienestar físico, mental y
+    emocional. ¡Déjanos ser tu guía en el viaje hacia una vida más saludable y
+    plena!
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:

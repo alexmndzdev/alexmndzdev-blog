@@ -69,6 +69,7 @@ module.exports = {
       resolve: "gatsby-plugin-decap-cms",
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
+        htmlTitle: 'Administrador Tianmen'
       },
     },
     {

@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-decap-cms",
-  "description": "Example Gatsby, and Netlify CMS project",
+  "name": "Tianmen",
+  "description": "Sanacion desde las raices",
   "version": "1.1.3",
-  "author": "Austin Green",
+  "author": "Alejandro Méndez",
   "dependencies": {
     "bulma": "^0.9.4",
     "decap-cms-app": "^3.0.12",
@@ -50,6 +50,6 @@
     "prettier": "^2.0.5"
   },
   "engines": {
-    "node": ">= 14.15.0"
+    "node": ">= 21.7.3"
   }
 }
