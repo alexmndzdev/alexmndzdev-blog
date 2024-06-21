@@ -41,9 +41,7 @@ const FaqPage = ({ data }) => {
                           <p className="is-size-5">{node.frontmatter.title}</p>
                         </div>
                         {openCards[index] && (
-                          <div className="faq-content open">
-                            <HTMLContent content={node.html} />
-                          </div>
+                          <HTMLContent content={node.html} className={'faq-content open'} />
                         )}
                       </div>
                     </div>
