@@ -32,7 +32,7 @@ El problema es que a largo plazo puede causar:
 \
 Tomando en cuenta estos efectos y que el proceso de sanación puede ser un proceso lento (obviamente el tiempo varía dependiendo la afección y forma de tratarlo) y que requiere esfuerzo entonces sanar se puede ver como un *objetivo a mediano o largo plazo* en el cual necesitaremos ***paciencia, compromiso y constancia.***
 
-La salud debe ser una consecuencia de **que tanto vamos de acuerdo a nuestra naturaleza** pero hacer esto no es ni tan fácil ni tan rápido ya que deberemos deshacernos de ciertas ideas y hábitos emocionales, alimenticios, posturales, entre otros; algunos de los cuales en realidad probablemente nunca fueron puestos en duda y las hicimos parte de nuestro sistema de creencias de manera automática porque seguramente tuvo una utilidad en algún momento de nuestra vida. Así como llevó tiempo para implantarse todo esto en nosotros también puede llevar tiempo deshacernos de ello.
+La salud debe ser una consecuencia de **que tanto vamos de acuerdo a nuestra naturaleza** pero hacer esto no es ni tan fácil ni tan rápido ya que deberemos deshacernos de ciertas ideas y hábitos emocionales, alimenticios, posturales, entre otros; algunos de los cuales en realidad probablemente nunca fueron puestos en duda y las hicimos parte de nuestro sistema de creencias de manera automática porque seguramente tuvo una utilidad en algún momento de nuestra vida. Así como llevó tiempo para integrarse todo esto en nosotros también puede llevar tiempo deshacernos de ello.
 
 > Conoce a tu enemigo y ganarás 50 de 100 batallas\
 > Conócete a ti mismo y ganarás 50 de 100 batallas\
@@ -49,7 +49,6 @@ La salud debe ser una consecuencia de **que tanto vamos de acuerdo a nuestra nat
 
    * Plantar un árbol frutal o floral para que disfrutes de la cosecha
    * Hacer alimentos fermentados
-   * Pararte de manos
-     Cualquiera que de preferencia te de resultados tangibles, ya que no siempre se tiene consciencia de los resultados más sutiles.
+   * Pararte de manos (o cualquier habilidad que de preferencia te de resultados tangibles)
 3. **Toma un nuevo objetivo a mediano plazo**\
    Comprométete con alguien a cumplirlo, rompe tu objetivo en pequeñas tareas, y cuando te veas tentado por la gratificación instantánea respira y sé empático con tu yo del futuro. El secreto estará en darte una recompensa luego de cada pequeña tarea y *aprender a disfrutar del proceso* más que del objetivo que te habías planteado .
