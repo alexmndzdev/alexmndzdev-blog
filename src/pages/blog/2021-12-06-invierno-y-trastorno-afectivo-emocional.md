@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Invierno y Trastorno Afectivo Estacional
 date: 2021-12-07T01:09:55.124Z
-description: Un trastorno afectivo estacional (TAE) es una depresión que sigue
+description: Un Trastorno Afectivo Estacional (TAE) es una depresión que sigue
   un patrón estacional, es decir, que ocurre solo en un período específico del
   año.
 featuredpost: false
