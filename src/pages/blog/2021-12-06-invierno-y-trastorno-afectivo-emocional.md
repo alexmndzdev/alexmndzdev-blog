@@ -17,10 +17,4 @@ tags:
 
 - - -
 
-Ya se siente que viene el invierno y con él el Trastorno Afectivo Estacional que se ha conocido en la MTCH (Medicina Tradicional China) desde sus inicios, tal trastorno suele afectar más a las mujeres (desde el punto de vista taoísta esto es por ser más de naturaleza Yin al igual que la estación) y con la posible depresión emocional que se pueda desarrollar siempre viene acompañada de una depresión del sistema inmune, por lo que estando en época de pandemia hay que hacer énfasis en tratarnos y/o simplemente estar más conscientes de cuidar las emociones, nutrición, tipos de ejercicio y mantenerse calientes 👌. 
-
-[Lista de condiciones reconocidas por la OMS que puede tratarse con **acupuntura**](https://www.novasan.com/blog/la-acupuntura-y-la-oms/)
-
-Prestar atención en que es únicamente acupuntura, no MTCH (que engloba más aspectos que únicamente la acupuntura).
-
-Tomando en cuenta que se pueden tratar muchas más cosas que las reconocidas por la OMS, si tienes duda de si tú condición puede ser tratada o recibir apoyo de la MTCH no dudes en preguntar 😉.
+Ya se siente que viene el invierno y con él el Trastorno Afectivo Estacional que se ha conocido en la MTCH (Medicina Tradicional China) desde sus inicios, tal trastorno suele afectar más a las mujeres y con la posible depresión emocional que se pueda desarrollartambién suele ser acompañada de una depresión del sistema inmune, por lo que estando en época de pandemia hay que hacer énfasis en tratarnos y/o simplemente estar más conscientes de cuidar las emociones, nutrición, tipos de ejercicio y mantenerse calientes 👌. 
