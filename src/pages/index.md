@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Bienvenido a Tianmen
-image: /img/natural.webp
+image: /img/resized_image_400px_height.png
 heading: Medicina Tradicional China (MTCH)
 subheading: " Tu Camino a la Sanación Integral"
 mainpitch:
