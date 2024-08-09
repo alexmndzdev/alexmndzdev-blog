@@ -1,17 +1,13 @@
 ---
 templateKey: index-page
-title: Tianmen
-image: /img/home-jumbotron.jpg
+title: Bienvenido a Tianmen
+image: /img/natural.webp
 heading: Medicina Tradicional China (MTCH)
-subheading: Verdadera sanación desde las raices
+subheading: " Tu Camino a la Sanación Integral"
 mainpitch:
-  title: Por que Tianmen?
-  description: "Tianmen puede ser traducido como la puerta al cielo, el objetivo
-    es que cualquier persona que quiera *mejorar* su condición: física, mental o
-    emocionalmente se pueda acercar (sin importar si ya se presentan síntomas o
-    no de algún padecimiento). El terapeuta a cargo tendrá el objetivo de
-    tratarlo de forma rápida, sencilla y eficaz, al mismo tiempo que ofrecerá
-    las herramientas necesarias para que no se vuelva a repetir el problema."
+  title: Comienza tu viaje de sanación hoy!
+  description: Tianmen, la puerta a tu bienestar, combinando sabiduría ancestral
+    con terapias modernas para acompañarte en tu proceso de sanación!
 description: La medicina tradicional china que consta de más de 2 mil años de
   antigüedad es una medicina holista (por lo que ve al cuerpo como un todo y no
   solamente como la suma de sus partes) que se apoya de varias herramientas para
