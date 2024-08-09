@@ -15,18 +15,15 @@ description: ¡Descubre cómo alcanzar tu máximo potencial humano con nuestros
 intro:
   blurbs:
     - image: /img/acupunturabanner.png
-      text: Descubre los beneficios de la acupuntura con nosotros. Nuestros
-        especialistas en acupuntura utilizan técnicas milenarias para aliviar el
-        dolor, reducir el estrés y restaurar el equilibrio energético del
-        cuerpo. Para todo tipo de problemas, desde un dolor muscular, insomnio,
-        ansiedad hasta depresión y medicina interna como endometriosis,
-        hipertensión o diabetes
+      text: Recupera el equilibrio energético de tu cuerpo con nuestras sesiones de
+        acupuntura personalizadas, diseñadas para todo tipo de problemas, desde
+        un dolor muscular, insomnio, ansiedad hasta depresión y medicina interna
+        como endometriosis, control de la hipertensión y diabetes
     - image: /img/masaje.jpg
-      text: Descubre los beneficios del masaje con nosotros. Nuestros terapeutas
-        expertos utilizan técnicas de masaje para aliviar el estrés, reducir la
-        tensión muscular y mejorar la circulación sanguínea. Experimenta una
-        sensación de relajación profunda y renueva tu vitalidad física y mental
-        con nuestros tratamientos de masaje.
+      text: Libera la tensión acumulada y revitaliza tu cuerpo con nuestros masajes
+        terapéuticos, que combinan técnicas ancestrales para mejorar la
+        circulación y promover una profunda sensación de relajación. Renueva tu
+        vitalidad física y mental!.
     - image: /img/oig2-1-.jpg
       text: Descubre los beneficios de la aromaterapia con nosotros. Utilizamos
         aceites esenciales naturales en aplicaciones tópicas y difusores
