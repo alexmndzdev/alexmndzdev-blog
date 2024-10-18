@@ -251,7 +251,7 @@ collections:
     fields: # The fields each document in this collection have
       - {
           label: "Template Key",
-          name: "templateKey",
+          name: "key",
           widget: "hidden",
           default: "Question",
         }
