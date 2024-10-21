@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
 import logo from "../img/logo_letters_transparent.png";
+import { useLocation } from '@reach/router';
 
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false)
@@ -8,6 +9,11 @@ const Navbar = () => {
   const toggleHamburger = () => {
     setIsActive(!isActive)
     setNavBarActiveClass(isActive ? 'is-active' : '')
+  }
+
+  const location = useLocation();
+  const isActiveLink = (path) => {
+    return location.pathname === path;
   }
 
   return (
@@ -35,21 +41,21 @@ const Navbar = () => {
         </div>
         <div id="navMenu" className={`navbar-menu ${navBarActiveClass}`} >
           <div className="navbar-start has-text-centered">
-            <Link className="navbar-item" to="/blog">
+            <Link className={`navbar-item ${isActiveLink('/blog') ? 'is-active' : ''}`} to="/blog">
               Blog
             </Link>
-            <Link className="navbar-item" to="/products">
+            <Link className={`navbar-item ${isActiveLink('/products') ? 'is-active' : ''}`} to="/products">
               Productos
             </Link>
-            <Link className="navbar-item" to="/faq">
+            <Link className={`navbar-item ${isActiveLink('/faq') ? 'is-active' : ''}`} to="/faq">
               Preguntas frecuentes
             </Link>
-            <Link className="navbar-item" to="/about">
+            <Link className={`navbar-item ${isActiveLink('/about') ? 'is-active' : ''}`} to="/about">
               Acerca
             </Link>
-            <Link className="navbar-item" to="/contact">
+            <Link className={`navbar-item ${isActiveLink('/contact') ? 'is-active' : ''}`} to="/contact">
               Contacto
-            </Link>
+            </Link> 
           </div>
         </div>
       </div>
