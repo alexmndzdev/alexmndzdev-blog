@@ -6,7 +6,7 @@ import Layout from "../components/Layout";
 import Features from "../components/Features";
 import Testimonials from "../components/Testimonials";
 import Pricing from "../components/Pricing";
-import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
+// import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import FullWidthImage from "../components/FullWidthImage";
 
 // eslint-disable-next-line
@@ -16,7 +16,7 @@ export const ProductPageTemplate = ({
   heading,
   description,
   intro,
-  main,
+  // main,
   testimonials,
   fullImage,
   pricing,
@@ -41,14 +41,14 @@ export const ProductPageTemplate = ({
             <div className="columns">
               <div className="column is-10 is-offset-1">
                 <Features gridItems={intro.blurbs} /> 
-                <div className="columns">
+                {/* <div className="columns">
                   <div className="column is-7">
                     <h3 className="has-text-weight-semibold is-size-3">
                       {main.heading}
                     </h3>
                     <p>{main.description}</p>
                   </div>
-                </div>
+                </div> 
                 <div className="tile is-ancestor">
                   <div className="tile is-vertical">
                     <div className="tile">
@@ -69,7 +69,7 @@ export const ProductPageTemplate = ({
                       </article>
                     </div>
                   </div>
-                </div>
+                </div> */}
                 <Testimonials testimonials={testimonials} />
               </div>
             </div>
@@ -131,7 +131,7 @@ const ProductPage = ({ data }) => {
         heading={frontmatter.heading}
         description={frontmatter.description}
         intro={frontmatter.intro}
-        main={frontmatter.main}
+        //main={frontmatter.main}
         testimonials={frontmatter.testimonials}
         fullImage={frontmatter.full_image}
         pricing={frontmatter.pricing}
