@@ -13,7 +13,6 @@ const FaqPage = ({ data }) => {
 
   // Función para cambiar el estado de la tarjeta abierta
   const toggleCard = (index) => {
-    console.log(index, 'index');
     setOpenCards((prevState) => ({
       ...prevState,
       [index]: !prevState[index]
@@ -26,7 +25,7 @@ const FaqPage = ({ data }) => {
         <div className="container">
           <div className="columns">
             <div className="column is-10 is-offset-1">
-              <div className="section">
+              <div id="faq" className="section">
                 <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
                   Preguntas Frecuentes
                 </h2>
