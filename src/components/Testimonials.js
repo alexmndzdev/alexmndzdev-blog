@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import { v4 } from "uuid";
 
 const Testimonials = ({ testimonials }) => (
-  <div>
+  <div className="pt-6">
     {testimonials.map((testimonial) => (
       <article key={v4()} className="message">
         <div className="message-body">

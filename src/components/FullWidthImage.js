@@ -14,7 +14,7 @@ export default function FullWidthImage(props) {
   return (
     <React.Fragment>
       <div
-        className="margin-top-0"
+        className="mt-0"
         style={{
           display: "grid",
           alignItems: "center",
