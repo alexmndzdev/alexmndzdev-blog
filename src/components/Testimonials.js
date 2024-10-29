@@ -9,8 +9,7 @@ import {
 import useEmblaCarousel from 'embla-carousel-react';
 
 const Testimonials = ({ testimonials }) => {
-  const [emblaRef, emblaApi] = useEmblaCarousel({
-    loop: true });
+  const [emblaRef, emblaApi] = useEmblaCarousel();
 
   const {
     prevBtnDisabled,
@@ -20,25 +19,25 @@ const Testimonials = ({ testimonials }) => {
   } = usePrevNextButtons(emblaApi);
 
   return (
-    <section className="embla">
-      <div className="embla__viewport">
-        <div className="embla__container" ref={emblaRef}>
+    <section className="embla theme-dark">
+      <div className="embla__viewport" ref={emblaRef}>
+        <div className="embla__container">
           {testimonials.map((testimonial) => (
             <div key={v4()} className="embla__slide">
-              <div className="card">
+              <div className="card slide">
                 <div className="card-content">
                   <div className="media">
                     <div className="media-left">
-                      <figure className="image is-48x48">
+                      <div className="image">
                         <img
                           src="https://bulma.io/assets/images/placeholders/96x96.png"
                           alt="Placeholder image"
                         />
-                      </figure>
+                      </div>
                     </div>
                     <div className="media-content">
                       <p className="title is-4">{testimonial.author}</p>
-                      <p className="subtitle is-6">@johnsmith</p>
+                      <p className="subtitle is-6">{testimonial.email}</p>
                     </div>
                   </div>
 
@@ -67,6 +66,7 @@ Testimonials.propTypes = {
     PropTypes.shape({
       quote: PropTypes.string,
       author: PropTypes.string,
+      email: PropTypes.string,
     })
   ),
 };

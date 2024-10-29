@@ -1,7 +1,6 @@
 import React, { useCallback, useEffect, useState } from 'react'
 
 export const usePrevNextButtons = (emblaApi) => {
-  console.log('entra a aqui');
   const [prevBtnDisabled, setPrevBtnDisabled] = useState(true)
   const [nextBtnDisabled, setNextBtnDisabled] = useState(true)
 
@@ -36,7 +35,6 @@ export const usePrevNextButtons = (emblaApi) => {
 }
 
 export const PrevButton = (props) => {
-  console.log('aca si llega el prev');
   const { children, ...restProps } = props
 
   return (
@@ -57,7 +55,6 @@ export const PrevButton = (props) => {
 }
 
 export const NextButton = (props) => {
-  console.log('aca si llega el next');
   const { children, ...restProps } = props
 
   return (

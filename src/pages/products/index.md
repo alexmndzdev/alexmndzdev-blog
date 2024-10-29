@@ -62,17 +62,19 @@ main:
     image: /img/products-grid1.jpg
 testimonials:
   - author: Roberto Avalos
+    email: r.avalos@gmail.com
     quote: ¡Experiencia maravillosa! Visité este lugar para un masaje y quedé
       impresionado. El ambiente era relajante y el terapeuta fue profesional y
       atento. Después del tratamiento, me sentí renovado y relajado.
       Definitivamente regresaré pronto.
   - author: Yasser Batas
-    quote: '"¡Excelente servicio y resultados! Recientemente probé la acupuntura en
+    email: yassk8@gmail.com
+    quote: ¡Excelente servicio y resultados! Recientemente probé la acupuntura en
       este lugar y quedé impresionado. El terapeuta fue muy profesional y me
       hizo sentir cómodo durante todo el proceso. Después de unas pocas
       sesiones, noté una mejora significativa en mi salud y bienestar.
       ¡Altamente recomendado para aquellos que buscan soluciones naturales para
-      mejorar su calidad de vida!"'
+      mejorar su calidad de vida!
 full_image: /img/oig1.jpg
 pricing:
   heading: Paquetes

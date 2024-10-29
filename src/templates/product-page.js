@@ -69,8 +69,23 @@ export const ProductPageTemplate = ({
                     </div>
                   </div>
                 </div> */}
-                <Testimonials testimonials={testimonials} />
               </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section className="hero is-link">
+        <div className="hero-body">
+          <p className="title">
+            Testimonios
+          </p>
+        </div>
+      </section>
+      <section id="testimonials" className="section section--gradient">
+        <div className="container">
+          <div className="columns">
+            <div className="column is-8 is-offset-2">
+              <Testimonials testimonials={testimonials} />
             </div>
           </div>
         </div>
@@ -203,6 +218,7 @@ export const productPageQuery = graphql`
         }
         testimonials {
           author
+          email
           quote
         }
 
