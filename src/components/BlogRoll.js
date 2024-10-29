@@ -18,7 +18,7 @@ const BlogRollTemplate = (props) => {
                 post.frontmatter.featuredpost ? 'is-featured' : ''
               }`}
             >
-              <header>
+              <header className="post-header">
                 {post?.frontmatter?.featuredimage && (
                   <div className="featured-thumbnail">
                     <PreviewCompatibleImage
@@ -42,20 +42,18 @@ const BlogRollTemplate = (props) => {
                   >
                     {post.frontmatter.title}
                   </Link>
-                  <span> &bull; </span>
+                  <span></span>
                   <span className="subtitle is-size-5 is-block">
                     {post.frontmatter.date}
                   </span>
                 </p>
               </header>
-              <p>
-                {post.excerpt}
-                <br />
-                <br />
+              <p>{post.excerpt}</p>
+              <div className="level-right has-text-right">
                 <Link className="button" to={post.fields.slug}>
-                  Seguir leyendo →
+                  Ver más →
                 </Link>
-              </p>
+              </div>
             </article>
           </div>
         ))}

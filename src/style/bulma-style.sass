@@ -24,13 +24,15 @@ $menu-label-color: $white-ter
 
 // responsiveness
 +tablet-only
-  .blog-list-item .featured-thumbnail
-    flex-basis: 50%
+  .blog-list-item > .post-header
+    display: block
+    text-align: center
+  .blog-list-item > .post-header > .featured-thumbnail
+    margin: 0 0 1em
 
 +mobile
-  .blog-list-item header
+  .blog-list-item > .post-header
     display: block
-  .blog-list-item .featured-thumbnail
     text-align: center
-    max-width: 70%
+  .blog-list-item > .post-header > .featured-thumbnail
     margin: 0 0 1em

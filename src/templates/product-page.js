@@ -74,7 +74,7 @@ export const ProductPageTemplate = ({
           </div>
         </div>
       </section>
-      <section className="hero is-link">
+      <section className="hero is-primary">
         <div className="hero-body">
           <p className="title">
             Testimonios
