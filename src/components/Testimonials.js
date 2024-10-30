@@ -7,9 +7,11 @@ import {
   usePrevNextButtons
 } from './EmblaCarouselArrowButtons';
 import useEmblaCarousel from 'embla-carousel-react';
+import Autoplay from 'embla-carousel-autoplay'
+import usergrey from "../img/usergrey.png"
 
 const Testimonials = ({ testimonials }) => {
-  const [emblaRef, emblaApi] = useEmblaCarousel();
+  const [emblaRef, emblaApi] = useEmblaCarousel({ loop: true }, [Autoplay()]);
 
   const {
     prevBtnDisabled,
@@ -28,9 +30,10 @@ const Testimonials = ({ testimonials }) => {
                 <div className="card-content">
                   <div className="media">
                     <div className="media-left">
-                      <div className="image">
+                      <div className="image is-96x96">
                         <img
-                          src="https://bulma.io/assets/images/placeholders/96x96.png"
+                          className="is-rounded"
+                          src={usergrey}
                           alt="Placeholder image"
                         />
                       </div>
