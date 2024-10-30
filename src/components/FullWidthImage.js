@@ -74,6 +74,8 @@ export default function FullWidthImage(props) {
                   color: "white",
                   lineHeight: "1",
                   padding: "0.25em",
+                  borderRadius: "1.5rem",
+                  opacity: "0.90",
                 }}
               >
                 {title}
@@ -90,6 +92,8 @@ export default function FullWidthImage(props) {
                   lineHeight: "1",
                   padding: "0.25rem",
                   marginTop: "0.5rem",
+                  borderRadius: "1.5rem",
+                  opacity: "0.90",
                 }}
               >
                 {subheading}
