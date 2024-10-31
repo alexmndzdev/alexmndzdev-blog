@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { Link } from "gatsby";
 import logo from "../img/logo_letters_transparent.png";
 import { useLocation } from '@reach/router';
+import GoogleCalendarButton from "./GoogleCalendarButton";
 
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false)
@@ -56,6 +57,12 @@ const Navbar = () => {
             <Link className={`navbar-item ${isActiveLink('/contact') ? 'is-active' : ''}`} to="/contact">
               Contacto
             </Link> 
+          </div>
+          <div className="navbar-end" style={{
+            margin: 'auto',
+            'justify-items': 'center'
+          }}>
+            <GoogleCalendarButton/>
           </div>
         </div>
       </div>
