@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { Link } from "gatsby";
 import logo from "../img/logo_letters_transparent.png";
 import { useLocation } from '@reach/router';
@@ -7,9 +7,11 @@ import GoogleCalendarButton from "./GoogleCalendarButton";
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false)
   const [navBarActiveClass, setNavBarActiveClass] = useState('')
+  useEffect(() => {
+    setNavBarActiveClass(isActive ? 'is-active' : '')
+  })
   const toggleHamburger = () => {
     setIsActive(!isActive)
-    setNavBarActiveClass(isActive ? 'is-active' : '')
   }
 
   const location = useLocation();
