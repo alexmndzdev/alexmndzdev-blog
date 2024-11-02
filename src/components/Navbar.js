@@ -60,7 +60,7 @@ const Navbar = () => {
           </div>
           <div className="navbar-end" style={{
             margin: 'auto',
-            'justify-items': 'center'
+            justifyItems: 'center'
           }}>
             <GoogleCalendarButton/>
           </div>
