@@ -75,6 +75,17 @@ testimonials:
       sesiones, noté una mejora significativa en mi salud y bienestar.
       ¡Altamente recomendado para aquellos que buscan soluciones naturales para
       mejorar su calidad de vida!
+  - email: monse.urzua@gmail.com
+    quote: ¡Súper recomendado!, me he tratado los últimos años por múltiples
+      problemas de ansiedad, hormonales y dolores físicos, incluyendo lesiones
+      deportivas y estoy más que satisfecha con el resultado en cada
+      consulta.  Me encanta tener opciones alternas a los medicamentos y
+      procedimientos de rigor y definitivamente recomiendo está opción. Sus
+      prácticas naturales y personalizadas me permitieron recuperar mi
+      equilibrio interior y mejorar significativamente mi calidad de vida.
+      Preferir la medicina china es elegir una opción integral, respetuosa y
+      efectiva para mi bienestar.
+    author: Monse Urzua
 full_image: /img/oig1.jpg
 pricing:
   heading: Paquetes
