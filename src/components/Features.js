@@ -1,11 +1,10 @@
 import * as React from "react";
 import PropTypes from "prop-types";
 import PreviewCompatibleImage from "./PreviewCompatibleImage";
-
-const FeatureGrid = ({ gridItems }) => (
+const FeatureGrid = ({ gridItems, isFullImage, columnType }) => (
   <div className="columns is-multiline">
     {gridItems.map((item) => (
-    <div key={item.text} className="column is-one-third">
+    <div key={item.text} className={`column ${columnType}`} >
       <div
         className="card shadow-md transform is-duration-300 hover-shadow-xl hover-translate-y"
         style={{ height: '100%' }}>
@@ -15,13 +14,13 @@ const FeatureGrid = ({ gridItems }) => (
               imageInfo={{
                 image: item.image,
                 alt: item.text,
-                style: { width: '100%', height: '100%' }
+                style: isFullImage ? { width: '100%', height: '100%' } : { }
               }}/>
           </figure>
         </div>
         <div className="card-content">
           <div className="content has-text-grey-light">
-            <h3>Dummy Text</h3>
+            {item.title && <h3>{item.title}</h3>}
             {item.text}
           </div>
         </div>
@@ -38,6 +37,8 @@ FeatureGrid.propTypes = {
       text: PropTypes.string,
     })
   ),
+  isFullImage: PropTypes.bool,
+  columnType: PropTypes.string,
 };
 
 export default FeatureGrid;
