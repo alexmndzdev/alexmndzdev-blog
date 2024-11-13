@@ -39,7 +39,11 @@ export const ProductPageTemplate = ({
             </div>
             <div className="columns">
               <div className="column is-10 is-offset-1">
-                <Features gridItems={intro.blurbs} /> 
+                <Features
+                  gridItems={intro.blurbs}
+                  isFullImage={true}
+                  columnType="is-one-third"
+                  />
                 {/* <div className="columns">
                   <div className="column is-7">
                     <h3 className="has-text-weight-semibold is-size-3">
