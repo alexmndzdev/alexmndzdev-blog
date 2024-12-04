@@ -100,21 +100,21 @@ pricing:
         las emociones y creencias que puedas estar asociadas con la composición
         corporal actual
       items:
-        - 4 sesiones de acupuntura = 1200
+        - 4 sesiones de acupuntura
         - Trabajo con emociones y/o creencias relacionadas
         - Asesoría en cambio de hábitos
-        - Auriculoterapia y digitopuntura para auto tratarse entre sesiones = 100
-        - Inhalador con mezcla de aceites esenciales para calmar apetito = 80
+        - Auriculoterapia y digitopuntura para auto tratarse entre sesiones
+        - Inhalador con mezcla de aceites esenciales para calmar apetito
       plan: Adelgazar
       price: "1000"
     - description: Mejorar la calidad del sueño y reducir los efectos del estrés crónico
       items:
-        - 4 sesiones de acupuntura = 1200
-        - 1 sesión para trabajar emociones/creencias involucradas = 300
-        - 1 sesión de masaje relajante = 300
-        - Inhalador con mezcla dedicada de aceites esenciales = 80
+        - 4 sesiones de acupuntura
+        - 1 sesión para trabajar emociones/creencias involucradas
+        - 1 masaje relajante
+        - Inhalador con mezcla dedicada de aceites esenciales
         - Cambio de hábitos enfocados al objetivo
-        - Tintura de lavanda y manzanilla = 80
+        - Tintura de lavanda y manzanilla
       plan: Antiestrés y Sueño Reparador
       price: "1300"
     - description: "Protocolo con muy buenos resultados en varias afectaciones
