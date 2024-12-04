@@ -88,7 +88,7 @@ testimonials:
     author: Monse Urzua
 full_image: /img/oig1.jpg
 pricing:
-  heading: Paquetes
+  heading: Paquetes compromiso
   description: ¡Maximiza tu bienestar con nuestros paquetes exclusivos diseñados
     para potenciar tu salud y vitalidad!. Cada paquete está diseñado para
     ofrecerte una experiencia holística que aborda tus necesidades individuales
@@ -96,25 +96,35 @@ pricing:
     emocional. ¡Déjanos ser tu guía en el viaje hacia una vida más saludable y
     plena!
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Ayudar al cliente a alcanzar un peso saludable mientras se abordan
+        las emociones y creencias que puedas estar asociadas con la composición
+        corporal actual
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - 4 sesiones de acupuntura = 1200
+        - Trabajo con emociones y/o creencias relacionadas
+        - Asesoría en cambio de hábitos
+        - Auriculoterapia y digitopuntura para auto tratarse entre sesiones = 100
+        - Inhalador con mezcla de aceites esenciales para calmar apetito = 80
       plan: Adelgazar
-      price: "50"
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
+      price: "1000"
+    - description: Mejorar la calidad del sueño y reducir los efectos del estrés crónico
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Descontracturante
-      price: "80"
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - 4 sesiones de acupuntura = 1200
+        - 1 sesión para trabajar emociones/creencias involucradas = 300
+        - 1 sesión de masaje relajante = 300
+        - Inhalador con mezcla dedicada de aceites esenciales = 80
+        - Cambio de hábitos enfocados al objetivo
+        - Tintura de lavanda y manzanilla = 80
+      plan: Antiestrés y Sueño Reparador
+      price: "1300"
+    - description: "Protocolo con muy buenos resultados en varias afectaciones
+        hormonales femeninas, por ejemplo: hipermenorrea, amenorrea secundaria y
+        menometrorragia"
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Desbloqueos emocionales
-      price: "30"
+        - 8 sesiones de acupuntura
+        - 2 sesiones para trabajar emociones/creencias relacionadas
+        - 1 inhalador con mezcla de aceite esencial personalizado
+        - Recomendaciones de cambios de hábitos personalizado
+      plan: Regulación Hormonal
+      price: "1800"
 ---
